@@ -1,5 +1,5 @@
 module libuv [system] {
-	header "/usr/include/uv.h"
+	header "/usr/local/include/uv.h"
 	link "uv"
 	export *
 }
